@@ -1,0 +1,35 @@
+id,month,duration,event,type,group
+1,0,5,Rec opportunities,background,recs
+2,0,5,Improve reading skills,range,exer
+3,0,3.5,Plan opportunities with recommenders,range,recs
+4,3,1,Take practice exam,range,exam
+5,4,5,Program considerations,background,rsch
+6,4,2,Improve skills per practice exam,range,exam
+7,6,2,List practical school options,range,rsch
+8,6,2,Take second practice test,range,exam
+9,8,2,Sign up for exam prep course,range,exam
+10,8,2,Research potential grad school programs,range,rsch
+11,8,2,Register for exam subject tests,range,exam
+12,9,1,Begin drafting personal statement,range,apps
+13,10,1,Create application checklists,range,apps
+14,10,1,Finalize potential schools,range,rsch
+15,10,1,Research potential professors,range,rsch
+16,10,1,Take official exam,range,exam
+17,11,1,Begin drafting other essays,range,apps
+18,11,1,Research application fee waivers,range,rsch
+19,12,1,Request recs,range,recs
+20,12,2,Take exam subject tests,range,exam
+21,13,3,"Complete, copy, submit apps",range,apps
+22,13,3,Verify recs sent,range,recs
+23,13,1,Retake official exam,range,exam
+24,13,1,Finalize personal statement,range,apps
+25,13,1,Request transcripts,range,apps
+26,14,2,Tailor statements for each program,range,apps
+27,14,2,Finish all required essays,range,apps
+28,16,2,Wait,background,apps
+29,17,2,Receive admission decisions(s),range,apps
+30,19,1,Make decision,range,prep
+31,19.5,1.5,Submit enrollment paperwork,range,prep
+32,20,2,"Register for classes, pay fees, etc.",range,prep
+33,21,2,"Arrange housing, moving, etc.",range,prep
+34,23,1,Start graduate school,point,apps

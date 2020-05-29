@@ -1,0 +1,35 @@
+id,month,duration,event
+1,0,5,Perform well in recommendation opportunities.
+2,0,5,Reading comprehension exercises.
+3,0,3.5,Plan opportunities with potential recommender.
+4,3,1,GRE practice test.
+5,4,5,Consider areas of research for graduate school.
+6,4,2,Focus on areas for improvement on GRE.
+7,6,2,List practical school options.
+8,6,2,Take second GRE practice test.
+9,8,2,"Sign up for GRE prep course, if needed."
+10,8,2,Research potential grad school programs.
+11,8,2,"Register for GRE Subject Tests, if needed."
+12,9,1,Begin drafting personal statement.
+13,10,1,Create application checklists.
+14,10,1,Finalize potential schools.
+15,10,1,Research potential professors.
+16,10,1,Take GRE.
+17,11,1,Begin drafting other application essays.
+18,11,1,Research application fee waivers.
+19,12,1,Request recommendations.
+20,12,2,"Take GRE Subject Tests, if needed."
+21,13,3,"Complete, copy, and submit all applications."
+22,13,3,Verify recommendations are sent.
+23,13,1,"Retake GRE, if needed."
+24,13,1,Finalize personal statement.
+25,13,1,Request transcripts.
+26,14,2,Tailor personal statements for each application.
+27,14,2,Finish all required essays.
+28,16,2,Wait.
+29,17,2,Receive admission decisions(s).
+30,19,1,Make decision.
+31,19.5,1.5,Submit enrollment paperwork.
+32,20,2,"Register for classes, pay fees, etc."
+33,21,2,"Arrange housing, moving, etc."
+34,23,1,Start graduate school.

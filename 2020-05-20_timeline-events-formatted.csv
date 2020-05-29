@@ -1,0 +1,35 @@
+id,content,start,end,group,type
+1,Perform well in recommendation opportunities.,2020-08-01,2021-01-01,NA,background
+2,Reading comprehension exercises.,2020-08-01,2021-01-01,NA,range
+3,Plan opportunities with potential recommender.,2020-08-01,2020-11-01,NA,range
+4,GRE practice test.,2020-11-01,2020-12-01,NA,range
+5,Consider areas of research for graduate school.,2020-12-01,2021-05-01,NA,background
+6,Focus on areas for improvement on GRE.,2020-12-01,2021-02-01,NA,range
+7,List practical school options.,2021-02-01,2021-04-01,NA,range
+8,Take second GRE practice test.,2021-02-01,2021-04-01,NA,range
+9,"Sign up for GRE prep course, if needed.",2021-04-01,2021-06-01,NA,range
+10,Research potential grad school programs.,2021-04-01,2021-06-01,NA,range
+11,"Register for GRE Subject Tests, if needed.",2021-04-01,2021-06-01,NA,range
+12,Begin drafting personal statement.,2021-05-01,2021-06-01,NA,range
+13,Create application checklists.,2021-06-01,2021-07-01,NA,range
+14,Finalize potential schools.,2021-06-01,2021-07-01,NA,range
+15,Research potential professors.,2021-06-01,2021-07-01,NA,range
+16,Take GRE.,2021-06-01,2021-07-01,NA,range
+17,Begin drafting other application essays.,2021-07-01,2021-08-01,NA,range
+18,Research application fee waivers.,2021-07-01,2021-08-01,NA,range
+19,Request recommendations.,2021-08-01,2021-09-01,NA,range
+20,"Take GRE Subject Tests, if needed.",2021-08-01,2021-10-01,NA,range
+21,"Complete, copy, and submit all applications.",2021-09-01,2021-12-01,NA,range
+22,Verify recommendations are sent.,2021-09-01,2021-12-01,NA,range
+23,"Retake GRE, if needed.",2021-09-01,2021-10-01,NA,range
+24,Finalize personal statement.,2021-09-01,2021-10-01,NA,range
+25,Request transcripts.,2021-09-01,2021-10-01,NA,range
+26,Tailor personal statements for each application.,2021-10-01,2021-12-01,NA,range
+27,Finish all required essays.,2021-10-01,2021-12-01,NA,range
+28,Wait.,2021-12-01,2022-02-01,NA,background
+29,Receive admission decisions(s).,2022-01-01,2022-03-01,NA,range
+30,Make decision.,2022-03-01,2022-04-01,NA,range
+31,Submit enrollment paperwork.,2022-03-01,2022-04-01,NA,range
+32,"Register for classes, pay fees, etc.",2022-04-01,2022-06-01,NA,range
+33,"Arrange housing, moving, etc.",2022-05-01,2022-07-01,NA,range
+34,Start graduate school.,2022-07-01,2022-08-01,NA,range
